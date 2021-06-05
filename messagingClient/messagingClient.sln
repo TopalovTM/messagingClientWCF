@@ -4,8 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messagingClient", "messagingClient\messagingClient.csproj", "{4AE3196A-E114-40E1-A2ED-93AE398AC3B4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{27301F18-F890-48C5-9EA8-FB73847A1BA5} = {27301F18-F890-48C5-9EA8-FB73847A1BA5}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "managerClient", "managerClient\managerClient.csproj", "{A5A0FF39-70C7-4F39-B9A1-693DDCAF83CE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{27301F18-F890-48C5-9EA8-FB73847A1BA5} = {27301F18-F890-48C5-9EA8-FB73847A1BA5}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service", "service\service.csproj", "{27301F18-F890-48C5-9EA8-FB73847A1BA5}"
 EndProject

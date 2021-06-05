@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using managerClient.servRef;
 
 namespace managerClient
 {
@@ -15,6 +16,11 @@ namespace managerClient
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btGetUsers_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

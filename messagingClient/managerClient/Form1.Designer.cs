@@ -78,6 +78,7 @@
             this.btGetUsers.TabIndex = 0;
             this.btGetUsers.Text = "Get users";
             this.btGetUsers.UseVisualStyleBackColor = true;
+            this.btGetUsers.Click += new System.EventHandler(this.btGetUsers_Click);
             // 
             // Form1
             // 

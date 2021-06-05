@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using messagingClient.servRef;
 
 namespace messagingClient
 {
@@ -15,6 +16,11 @@ namespace messagingClient
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btLogin_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
