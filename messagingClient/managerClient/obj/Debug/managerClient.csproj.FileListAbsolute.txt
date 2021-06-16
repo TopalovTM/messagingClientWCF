@@ -1,0 +1,10 @@
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\bin\Debug\managerClient.exe.config
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\bin\Debug\managerClient.exe
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\bin\Debug\managerClient.pdb
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.csprojAssemblyReference.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.Form1.resources
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.Properties.Resources.resources
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.csproj.GenerateResource.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.exe
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\managerClient\obj\Debug\managerClient.pdb

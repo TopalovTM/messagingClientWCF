@@ -37,6 +37,7 @@
             // 
             // lbUsers
             // 
+            this.lbUsers.DisplayMember = "Name";
             this.lbUsers.FormattingEnabled = true;
             this.lbUsers.ItemHeight = 16;
             this.lbUsers.Location = new System.Drawing.Point(8, 23);
@@ -54,6 +55,7 @@
             this.btBlockUser.TabIndex = 2;
             this.btBlockUser.Text = "Block user";
             this.btBlockUser.UseVisualStyleBackColor = true;
+            this.btBlockUser.Click += new System.EventHandler(this.btBlockUser_Click);
             // 
             // groupBox1
             // 

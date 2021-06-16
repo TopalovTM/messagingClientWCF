@@ -60,6 +60,7 @@
             this.btSendPrivate.TabIndex = 5;
             this.btSendPrivate.Text = "Send";
             this.btSendPrivate.UseVisualStyleBackColor = true;
+            this.btSendPrivate.Click += new System.EventHandler(this.btSendPrivate_Click);
             // 
             // groupBoxSendPrivateMessage
             // 
@@ -109,6 +110,7 @@
             this.btPostPublic.TabIndex = 7;
             this.btPostPublic.Text = "Post";
             this.btPostPublic.UseVisualStyleBackColor = true;
+            this.btPostPublic.Click += new System.EventHandler(this.btPostPublic_Click);
             // 
             // lbMessages
             // 
@@ -145,6 +147,7 @@
             this.btGetListOfUsers.TabIndex = 2;
             this.btGetListOfUsers.Text = "Get list of users";
             this.btGetListOfUsers.UseVisualStyleBackColor = true;
+            this.btGetListOfUsers.Click += new System.EventHandler(this.btGetListOfUsers_Click);
             // 
             // lbUsers
             // 
@@ -245,6 +248,7 @@
             this.Controls.Add(this.groupBox2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBoxSendPrivateMessage.ResumeLayout(false);
             this.groupBoxSendPrivateMessage.PerformLayout();
             this.groupBox3.ResumeLayout(false);

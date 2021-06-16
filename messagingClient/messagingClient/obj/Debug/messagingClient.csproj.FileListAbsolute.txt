@@ -1,0 +1,10 @@
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\bin\Debug\messagingClient.exe.config
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\bin\Debug\messagingClient.exe
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\bin\Debug\messagingClient.pdb
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.csprojAssemblyReference.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.Form1.resources
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.Properties.Resources.resources
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.csproj.GenerateResource.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.exe
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\messagingClient\obj\Debug\messagingClient.pdb

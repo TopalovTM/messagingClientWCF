@@ -1,0 +1,7 @@
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\bin\Release\service.dll.config
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\bin\Release\service.dll
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\bin\Release\service.pdb
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\obj\Release\service.csprojAssemblyReference.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\obj\Release\service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\obj\Release\service.dll
+C:\Users\Dell\GitHub\messagingClientWCF\messagingClient\service\obj\Release\service.pdb
